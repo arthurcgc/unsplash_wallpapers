@@ -25,7 +25,7 @@ for tag in l:
     links.append(tag['href'])
 
 for i in range(0, len(links)):
-    name = "downloads/wpp" + str(i) + ".jpeg"
+    name =  dir_name + "/wpp" + str(i) + ".jpeg"
     urllib.request.urlretrieve(links[i], name)
 
 
