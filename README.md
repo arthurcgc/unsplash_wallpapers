@@ -1,1 +1,1 @@
-# Simple python script to download wallpapers from unsplash.com
+## Simple python script to download wallpapers from unsplash.com
